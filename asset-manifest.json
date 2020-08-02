@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ciel/static/css/main.5f361e03.chunk.css",
+    "main.js": "/ciel/static/js/main.cb388e09.chunk.js",
+    "main.js.map": "/ciel/static/js/main.cb388e09.chunk.js.map",
+    "runtime-main.js": "/ciel/static/js/runtime-main.c5f5f446.js",
+    "runtime-main.js.map": "/ciel/static/js/runtime-main.c5f5f446.js.map",
+    "static/js/2.0338c868.chunk.js": "/ciel/static/js/2.0338c868.chunk.js",
+    "static/js/2.0338c868.chunk.js.map": "/ciel/static/js/2.0338c868.chunk.js.map",
+    "index.html": "/ciel/index.html",
+    "precache-manifest.4c66beacc2e7a667d95c7c18e5877836.js": "/ciel/precache-manifest.4c66beacc2e7a667d95c7c18e5877836.js",
+    "service-worker.js": "/ciel/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/ciel/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.0338c868.chunk.js.LICENSE.txt": "/ciel/static/js/2.0338c868.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/ciel/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c5f5f446.js",
+    "static/js/2.0338c868.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.cb388e09.chunk.js"
+  ]
+}
